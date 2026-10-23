@@ -110,5 +110,3 @@ The project combines descriptive analytics, bottleneck investigation, time-serie
 
 - `EDA(2).ipynb` — Exploratory data analysis, visualizations, business KPI calculations, root cause investigation, time-series analysis, and Random Forest modeling.
 - `dataset/` — Dataset files, if included in the repository.
-
-This project is intended for analytical and educational purposes. The identified relationships and model predictions should be validated against operational context before being used to make business decisions.
